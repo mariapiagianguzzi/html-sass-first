@@ -1,0 +1,8 @@
+h2 {
+  color: red;
+}
+$color: yellow;
+
+h1 {
+  color: $color;
+}
